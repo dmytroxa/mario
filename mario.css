@@ -1,1 +1,62 @@
+h1{
+    color: brown;
+    background-color: black;
+    
+}
+
+h2{
+    color: brown;
+    background-color: black; 
+}
+
+h3{ 
+    color: brown;
+    background-color: black;
+}
+
+h1:hover{
+    background-color: rgb(220, 110, 20);
+    transition: 3s background linear;
+}
+
+selector{
+    background-color: rgb(220, 127, 20);
+}
+
+h2:hover{
+    background-color: rgb(220, 117, 20);
+    transition: 3s background linear;
+}
+
+h3:hover{
+    background-color: rgb(220, 140, 20);
+    transition: 3s background linear;
+}
+
+body{
+    background-color: black;
+}
+
+img{
+    height: 400px;
+}
+
+img:hover{
+    box-shadow: 10px 10px 10px 0 orange;
+    transition: 3s box-shadow linear;
+}
+
+p{
+    color: brown;
+}
+
+p:hover{
+    background-color: rgb(255, 153, 0);
+    transition: 3s background linear;
+}
+
+selector {
+    background-color: rgb(255, 174, 0);
+}
+
 
